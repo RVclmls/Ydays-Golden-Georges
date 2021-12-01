@@ -1,0 +1,76 @@
+{
+    "user": {
+      "0": {
+        "username": "africacomicade",
+        "id": 1268808018113765400,
+        "displayname": "Africacomicade",
+        "followersCount": 501,
+        "friendsCount": 240,
+        "statusesCount": 933,
+        "favouritesCount": 1629
+      },
+      "1": {
+        "username": "Massekagamestud",
+        "id": 879315105082744800,
+        "displayname": "Masseka game studio",
+        "verified": false,
+        "followersCount": 255,
+        "friendsCount": 223,
+        "statusesCount": 174,
+        "favouritesCount": 218,
+        "mediaCount": 55,
+        "location": "Paris, France"
+      },
+      "2": {
+        "username": "Massekagamestud",
+        "id": 879315105082744800,
+        "displayname": "Masseka game studio",
+        "followersCount": 255,
+        "friendsCount": 223,
+        "favouritesCount": 218,
+        "location": "Paris, France"
+      },
+      "3": {
+        "username": "EricNgaindiro",
+        "id": 2929328025,
+        "displayname": "tweet",
+        "description": "Cheveux noirs\nYeux marrons",
+        "followersCount": 38,
+        "friendsCount": 351,
+        "statusesCount": 109,
+        "favouritesCount": 131,
+        "location": "République centrafricaine"
+      },
+      "4": {
+        "username": "PegMbas",
+        "id": 1057725174999629800,
+        "displayname": "Peggy MBASSINGA",
+        "followersCount": 410,
+        "friendsCount": 195,
+        "favouritesCount": 575,
+        "mediaCount": 45,
+        "location": "République centrafricaine"
+      }
+    },
+    "date": {
+      "0": 1637845965000,
+      "1": 1633994464000,
+      "2": 1633378908000,
+      "3": 1632854881000,
+      "4": 1632745829000
+    },
+    "content": {
+      "0": "To round up the virtual  talk sessions for this year's Gamathon, We would be hosting  @MaxN0ir  , @Massekagamestud  , @israeldanimator , @CGAfricaPortal , @olawalesmd, Laurel Gbenefa, Oyindamola fakeye,  @whyyouaskn , @africannftclub , @AfricanosNFT and @Kingfikser \n\nJoin Us🔥🔥 https://t.co/4u7cL4LitH",
+      "1": "https://t.co/oWz1BqsJTh",
+      "2": "Une belle opportunités pour les studios africains https://t.co/NeEI9Poxug",
+      "3": "@PegMbas @Massekagamestud Merci pour votre réponse",
+      "4": "@EricNgaindiro Le 1er jeu qu'on a sorti s'appelle Kissoro Tribal Game vous pouvez le télécharger sur le Store Apple ou Google en fonction de votre téléphone ou tablette. Le jeu pour la CAN s'appelle Golden Georges suivez nous sur @Massekagamestud"
+    },
+    "user_location": {
+      "0": "",  
+      "1": "Paris, France",
+      "2": "Paris, France",
+      "3": "République centrafricaine",
+      "4": "République centrafricaine"
+    }
+  }
